@@ -3,7 +3,7 @@
 **Tarefas com GTD completo, agenda, finanças com Open Finance, hábitos e foco — num só app.**
 Funciona no navegador (PWA, offline) e no Windows (.exe). Seus dados ficam no seu dispositivo.
 
-[**▶ Testar a demo ao vivo**](https://rumo-demo-phi.vercel.app) · [**⬇ Baixar para Windows**](https://rumo-demo-phi.vercel.app/baixar.html) · [Novidades](CHANGELOG.md)
+[**▶ Testar a demo ao vivo**](https://rumo-demo-phi.vercel.app) · [**⬇ Baixar para Windows**](https://rumo-demo-phi.vercel.app/baixar) · [Novidades](CHANGELOG.md)
 
 ![Hoje](media/02-hoje-claro.png)
 
